@@ -1583,7 +1583,7 @@ def gestioneautisti():
         ***Calcolo Costo Gasolio***
         ---------------------------
         '''
-        gasolio=1.55
+        gasolio=1.58
         km=input('Km da percorrere:')
         totale= float(gasolio*(km/2.4))
         print'Costo Gasolio a Lt:',gasolio,'euro'
